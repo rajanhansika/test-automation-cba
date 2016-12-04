@@ -6,3 +6,5 @@ How to run the test?
 2. cd to test-automation-cba
 3. mvn clean
 4. mvn test
+5. After completion of the automation test naviagte to the folder target and see 'Output.txt' to see the desired output.
+6. For Cucumber generated reportes, naviage to 'reports' folder andopen 'index.html'
